@@ -14,6 +14,7 @@ public class MotorPh_SalaryComputations {
 
     public static void main(String[] args) {
         Scanner inp = new Scanner (System.in);
+        
         long empNum;
         String empName;
         double hourSalary, weeklyTime, weeklySalary, overTime;
