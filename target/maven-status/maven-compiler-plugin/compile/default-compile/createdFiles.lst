@@ -1,2 +1,6 @@
+com\mycompany\motorph_salarycomputations\EmployeeDatabase.class
 com\mycompany\motorph_salarycomputations\MotorPh_SalaryComputations.class
+com\mycompany\motorph_salarycomputations\EmployeeFileHandling.class
 com\mycompany\motorph_salarycomputations\MotorPh_salary_From_CHgpt.class
+com\mycompany\motorph_salarycomputations\Payslip_MotorPh.class
+com\mycompany\motorph_salarycomputations\SalaryComputation_MyMotorPh101.class
